@@ -18,11 +18,11 @@
 #
 #     no such file to load -- test-first-teaching/hello/hello (LoadError)
 #
-# That means that it is looking for a file called `hello.rb` and can't find it.
+# That means that it is looking for a file called `hello` and can't find it.
 #
-# ## Create hello.rb
+# ## Create hello
 #
-# Open up `hello.rb` in a text editor. Save it. Run the test again.
+# Open up `hello` in a text editor. Save it. Run the test again.
 #
 #     rake
 #
@@ -43,7 +43,7 @@
 #
 # ## Create the hello function
 #
-# Fix this by opening `hello.rb` and creating an empty function:
+# Fix this by opening `hello` and creating an empty function:
 #
 #     def hello
 #     end
